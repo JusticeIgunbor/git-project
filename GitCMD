@@ -1,0 +1,6 @@
+| `git init` | : Create an empty Git repository or reinitialize an existing one
+| `git branch` | : List, create, or delete branches(-d)
+| `git add` | : Add file contents to the index, add all (.)
+| `git commit` | : Record changes to the repository, -m "note whatever change here"
+| `git checkout` | : Switch branches (i.e. from master to feature1)
+| `git push` | : Update remote refs along with associated objects (Synce content to upload to GitHub)
